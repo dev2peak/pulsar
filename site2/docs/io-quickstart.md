@@ -60,7 +60,7 @@ For more information about how to install a standalone Pulsar and builtin connec
     curl -s http://localhost:8080/admin/v2/namespaces/public
     ```
 
-    Example outoupt:
+    Example output:
     ```shell
     ["public/default","public/functions"]
     ```
